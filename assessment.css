@@ -56,6 +56,3 @@ display: none;
 #checkbox-grid li {
   list-style: none;
 }
-ol>:first-child{
-  font-weight: bold;
-}
